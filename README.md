@@ -7,9 +7,8 @@ Cyclegan 논문 구현 연습, Cyclegan에 conditianl 정보 넣어주는 연구
 ## Install dependencis
 * PyTorch>=0.4.1
 * torchvision>=0.2.1
-* opencv-python>=3.4.2
+* opencv-python>=4.5.4
 * PIL
-* natsort
 
 ## Used
 
